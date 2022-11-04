@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<college>
+    <student>
+        <firstName>Azhar Uddin</firstName>
+        <lastName>Raihan</lastName>
+        <mobile>018*******</mobile>
+        <fatherName>alam uddin</fatherName>
+        <address>
+            <presentAddress title="notun" type="multiple">
+                <zila>Feni</zila>
+                <upzila>chhagalniya</upzila>
+                <post>3912</post>
+            </presentAddress>
+            <permanentAddress>
+                <zila>comilla</zila>
+                <upzila>sadar</upzila>
+            </permanentAddress>
+        </address>
+    </student>
+</college>
